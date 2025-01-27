@@ -1,0 +1,13 @@
+﻿{
+  "Release": "PROTOKÓŁ WYDANIA",
+  "Return": "PROTOKÓŁ ZWROTU",
+
+  "Draft": "*WERSJA ROBOCZA*",
+  "Reserved": "*REZERWACJA*",
+  "Offer": "*OFERTA*",
+
+  "LeaseToSale": "SPRZEDAŻ Z DZIERŻAWY",
+  "ReturnToSale": "ZWROT DO SPRZEDAŻY",
+
+  "FromDay": "z dnia"
+}
